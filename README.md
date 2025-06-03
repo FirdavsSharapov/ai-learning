@@ -21,6 +21,3 @@ or
 ```bash
 python oop_library.py
 ```
-
-## Author
-Self-directed learning, guided by ChatGPT 🚀
